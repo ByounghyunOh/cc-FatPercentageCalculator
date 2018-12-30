@@ -7,4 +7,4 @@ Fat Percentage Calculator with Visual Basic
 * If the calories from fat are less than 30% of the total calories of the food, it should also display a message indicating the food is low in fat.
 
 ## Screenshot
-![ScreenShot](ScreenShot.png?raw)
+<img src="ScreenShot.png" width="400" title="screenshot"/>
