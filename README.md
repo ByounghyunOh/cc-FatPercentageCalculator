@@ -9,4 +9,3 @@ Fat Percentage Calculator with Visual Basic
 ## Screenshot
 ![Screen Shot](ScreenShot.png?raw=true "Screen Shot")
 
-![Screen Shot](ScreenShot.jpg "Screen Shot")
